@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&family=JetBrains+Mono:ital,wght@0,200;0,600;0,800;1,100;1,800&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'JetBrains Mono', monospace;
+	font-size: 18px;
+	margin: 0px;
+
+}
+h1{font-family: 'Do Hyeon', sans-serif;
+	font-weight: 800;
+}
+
+h2, h3 {
+	
+	font-family: 'Do Hyeon', sans-serif;
+	font-weight: 800;
+}
+a{
+	text-decoration: none;
+
+}
+a:hover{
+	 color: black;
+}

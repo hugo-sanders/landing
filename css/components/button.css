@@ -1,0 +1,27 @@
+.btn-red{
+	background-color: #FD0000;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 800;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+.btn-twitter{
+	background-color: #1DA1F2;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 800;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+.btn-twitch{
+	background-color: #6441A4;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: 800;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
